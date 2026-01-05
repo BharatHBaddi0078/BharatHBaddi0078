@@ -12,23 +12,10 @@
 
 ## 🌐 Socials
 
-<p align="left" style="display:flex;gap:8px;text-decoration:none">
-  <a href="https://instagram.com/igbharathh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bharath-b-966430293">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bharathbaddi007.8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/BharatHBaddi0078">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/Impressive_Goal_2117">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-</p>
+[![Mail]("https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:bharathbaddi007.8@gmail.com)
+[![LinkedIn]("https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/bharath-b-966430293)
+[![Reddit]("https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white")](https://www.reddit.com/user/Impressive_Goal_2117)
+[![Instagram]("https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://instagram.com/igbharathh)
 
 ---
 
