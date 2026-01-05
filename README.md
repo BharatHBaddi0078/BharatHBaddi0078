@@ -58,7 +58,7 @@
 ---
 
 ## GitHub Stats
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={BharatHBaddi0078}&theme={nord_dark}&exclude={exclude}
+<img alt="Most Commit Languages src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={BharatHBaddi0078}&theme={nord_dark}&exclude={exclude}">
 [![](https://raw.githubusercontent.com/BharatHBaddi0078/BharatHBaddi0078/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/BharatHBaddi0078/BharatHBaddi0078/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
