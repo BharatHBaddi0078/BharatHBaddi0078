@@ -59,5 +59,9 @@
 
 ## GitHub Stats
 
+[![](https://raw.githubusercontent.com/BharatHBaddi0078/BharatHBaddi0078/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/BharatHBaddi0078/BharatHBaddi0078/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/BharatHBaddi0078/BharatHBaddi0078/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://camo.githubusercontent.com/7bd485e2e5c8509f12c3f6d8d0969c3e5893789633c93d7483a44e2e7f803154/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d766e376e3234667a6b71267468656d653d64656661756c74)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BharatHBaddi0078&theme=default)
 
 ---
