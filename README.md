@@ -67,6 +67,9 @@
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=BharatHBaddi0078)
 ---
 
 ---
