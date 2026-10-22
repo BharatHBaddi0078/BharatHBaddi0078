@@ -57,7 +57,7 @@
 
 ---
 
-![GitHub Stats](https://ghstats.dev/api/card?username=BharatHBaddi0078&theme=nord)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=BharatHBaddi0078&theme=radical&border_radius=12.5&custom_title=Bharath%27s+GitHub+Stats)s
 ---
 
 ---
