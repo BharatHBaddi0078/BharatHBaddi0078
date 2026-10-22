@@ -5,14 +5,14 @@
 - 💻 I’m interested in Data Science, Machine Learning, and Full‑stack development.
 - 📍 Engineer based in Bengaluru, India.
 - 🌐 Website: https://bharathbadderu.live 
-- 📫 How to reach me: bharathbaddi007.8@gmail.com
+- 📫 How to reach me: bharath.badderu@gmail.com
 - 😄 Pronouns: he/him
 
 ---
 
 ## 🌐 Socials
 
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathbaddi007.8@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharath.badderu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-b-966430293)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Impressive_Goal_2117)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igbharathh)
