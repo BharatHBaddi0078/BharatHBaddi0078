@@ -57,7 +57,7 @@
 
 ---
 
-![GitHub Stats](https://ghstats.dev/api/card?username=BharatHBaddi0078&theme=ayu)
+![GitHub Stats](https://ghstats.dev/api/card?username=BharatHBaddi0078&theme=nord)
 ---
 
 ---
